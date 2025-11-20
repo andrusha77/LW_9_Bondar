@@ -1,0 +1,568 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|c:\\users\\bonda\\desktop\\mia_4\\mia_lw_4-6\\carpooling.webapi\\carpooling.webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|solutionrelative:carpooling.webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|c:\\users\\bonda\\desktop\\mia_4\\mia_lw_4-6\\carpooling.webapi\\carpooling.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|solutionrelative:carpooling.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|c:\\users\\bonda\\desktop\\mia_4\\mia_lw_4-6\\carpooling.webapi\\carpooling.webapi\\validators\\vehiclevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|solutionrelative:carpooling.webapi\\validators\\vehiclevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|c:\\users\\bonda\\desktop\\mia_4\\mia_lw_4-6\\carpooling.webapi\\carpooling.webapi\\validators\\ridevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|solutionrelative:carpooling.webapi\\validators\\ridevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|c:\\users\\bonda\\desktop\\mia_4\\mia_lw_4-6\\carpooling.webapi\\carpooling.webapi\\validators\\bookingvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|solutionrelative:carpooling.webapi\\validators\\bookingvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|c:\\users\\bonda\\desktop\\mia_4\\mia_lw_4-6\\carpooling.webapi\\carpooling.webapi\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|solutionrelative:carpooling.webapi\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|c:\\users\\bonda\\desktop\\mia_4\\mia_lw_4-6\\carpooling.webapi\\carpooling.webapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|solutionrelative:carpooling.webapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|c:\\users\\bonda\\desktop\\mia_4\\mia_lw_4-6\\carpooling.webapi\\carpooling.webapi\\services\\rideservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|solutionrelative:carpooling.webapi\\services\\rideservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|c:\\users\\bonda\\desktop\\mia_4\\mia_lw_4-6\\carpooling.webapi\\carpooling.webapi\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|solutionrelative:carpooling.webapi\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|c:\\users\\bonda\\desktop\\mia_4\\mia_lw_4-6\\carpooling.webapi\\carpooling.webapi\\services\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|solutionrelative:carpooling.webapi\\services\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|c:\\users\\bonda\\desktop\\mia_4\\mia_lw_4-6\\carpooling.webapi\\carpooling.webapi\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|solutionrelative:carpooling.webapi\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|c:\\users\\bonda\\desktop\\mia_4\\mia_lw_4-6\\carpooling.webapi\\carpooling.webapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|solutionrelative:carpooling.webapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|c:\\users\\bonda\\desktop\\mia_4\\mia_lw_4-6\\carpooling.webapi\\carpooling.webapi\\repositories\\mongorepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|solutionrelative:carpooling.webapi\\repositories\\mongorepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|c:\\users\\bonda\\desktop\\mia_4\\mia_lw_4-6\\carpooling.webapi\\carpooling.webapi\\repositories\\irepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|solutionrelative:carpooling.webapi\\repositories\\irepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|c:\\users\\bonda\\desktop\\mia_4\\mia_lw_4-6\\carpooling.webapi\\carpooling.webapi\\moduls\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|solutionrelative:carpooling.webapi\\moduls\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|c:\\users\\bonda\\desktop\\mia_4\\mia_lw_4-6\\carpooling.webapi\\carpooling.webapi\\moduls\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|solutionrelative:carpooling.webapi\\moduls\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|c:\\users\\bonda\\desktop\\mia_4\\mia_lw_4-6\\carpooling.webapi\\carpooling.webapi\\moduls\\ride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|solutionrelative:carpooling.webapi\\moduls\\ride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|c:\\users\\bonda\\desktop\\mia_4\\mia_lw_4-6\\carpooling.webapi\\carpooling.webapi\\moduls\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|solutionrelative:carpooling.webapi\\moduls\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|c:\\users\\bonda\\desktop\\mia_4\\mia_lw_4-6\\carpooling.webapi\\carpooling.webapi\\moduls\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|solutionrelative:carpooling.webapi\\moduls\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|c:\\users\\bonda\\desktop\\mia_4\\mia_lw_4-6\\carpooling.webapi\\carpooling.webapi\\interfaces\\ivehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|solutionrelative:carpooling.webapi\\interfaces\\ivehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|c:\\users\\bonda\\desktop\\mia_4\\mia_lw_4-6\\carpooling.webapi\\carpooling.webapi\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|solutionrelative:carpooling.webapi\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|c:\\users\\bonda\\desktop\\mia_4\\mia_lw_4-6\\carpooling.webapi\\carpooling.webapi\\interfaces\\irideservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|solutionrelative:carpooling.webapi\\interfaces\\irideservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|c:\\users\\bonda\\desktop\\mia_4\\mia_lw_4-6\\carpooling.webapi\\carpooling.webapi\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|solutionrelative:carpooling.webapi\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|c:\\users\\bonda\\desktop\\mia_4\\mia_lw_4-6\\carpooling.webapi\\carpooling.webapi\\enum\\roleflags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|solutionrelative:carpooling.webapi\\enum\\roleflags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|c:\\users\\bonda\\desktop\\mia_4\\mia_lw_4-6\\carpooling.webapi\\carpooling.webapi\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|solutionrelative:carpooling.webapi\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|c:\\users\\bonda\\desktop\\mia_4\\mia_lw_4-6\\carpooling.webapi\\carpooling.webapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|solutionrelative:carpooling.webapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|c:\\users\\bonda\\desktop\\mia_4\\mia_lw_4-6\\carpooling.webapi\\carpooling.webapi\\controllers\\rolesdemocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|solutionrelative:carpooling.webapi\\controllers\\rolesdemocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|c:\\users\\bonda\\desktop\\mia_4\\mia_lw_4-6\\carpooling.webapi\\carpooling.webapi\\controllers\\ridescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|solutionrelative:carpooling.webapi\\controllers\\ridescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|c:\\users\\bonda\\desktop\\mia_4\\mia_lw_4-6\\carpooling.webapi\\carpooling.webapi\\controllers\\mongodbclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|solutionrelative:carpooling.webapi\\controllers\\mongodbclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|c:\\users\\bonda\\desktop\\mia_4\\mia_lw_4-6\\carpooling.webapi\\carpooling.webapi\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|solutionrelative:carpooling.webapi\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|c:\\users\\bonda\\desktop\\mia_4\\mia_lw_4-6\\carpooling.webapi\\carpooling.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352F834C-8B61-4BE6-8092-9477C837D5CC}|Carpooling.WebApi\\Carpooling.WebApi.csproj|solutionrelative:carpooling.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 811,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Carpooling.WebApi\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Services\\UserService.cs",
+              "RelativeToolTip": "Carpooling.WebApi\\Services\\UserService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T20:33:29.186Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Carpooling.WebApi\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Carpooling.WebApi\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwBsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T20:00:07.548Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Carpooling.WebApi\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Carpooling.WebApi\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T10:11:42.234Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Moduls\\User.cs",
+              "RelativeDocumentMoniker": "Carpooling.WebApi\\Moduls\\User.cs",
+              "ToolTip": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Moduls\\User.cs",
+              "RelativeToolTip": "Carpooling.WebApi\\Moduls\\User.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T09:57:17.837Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IVehicleService.cs",
+              "DocumentMoniker": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Interfaces\\IVehicleService.cs",
+              "RelativeDocumentMoniker": "Carpooling.WebApi\\Interfaces\\IVehicleService.cs",
+              "ToolTip": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Interfaces\\IVehicleService.cs",
+              "RelativeToolTip": "Carpooling.WebApi\\Interfaces\\IVehicleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T10:11:45.881Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VehicleService.cs",
+              "DocumentMoniker": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Services\\VehicleService.cs",
+              "RelativeDocumentMoniker": "Carpooling.WebApi\\Services\\VehicleService.cs",
+              "ToolTip": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Services\\VehicleService.cs",
+              "RelativeToolTip": "Carpooling.WebApi\\Services\\VehicleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T10:10:35.483Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "VehiclesController.cs",
+              "DocumentMoniker": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Controllers\\VehiclesController.cs",
+              "RelativeDocumentMoniker": "Carpooling.WebApi\\Controllers\\VehiclesController.cs",
+              "ToolTip": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Controllers\\VehiclesController.cs",
+              "RelativeToolTip": "Carpooling.WebApi\\Controllers\\VehiclesController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAkwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T10:13:51.082Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Moduls\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Carpooling.WebApi\\Moduls\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Moduls\\Vehicle.cs",
+              "RelativeToolTip": "Carpooling.WebApi\\Moduls\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T10:30:15.176Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RidesController.cs",
+              "DocumentMoniker": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Controllers\\RidesController.cs",
+              "RelativeDocumentMoniker": "Carpooling.WebApi\\Controllers\\RidesController.cs",
+              "ToolTip": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Controllers\\RidesController.cs",
+              "RelativeToolTip": "Carpooling.WebApi\\Controllers\\RidesController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAkwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T10:25:46.572Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Ride.cs",
+              "DocumentMoniker": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Moduls\\Ride.cs",
+              "RelativeDocumentMoniker": "Carpooling.WebApi\\Moduls\\Ride.cs",
+              "ToolTip": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Moduls\\Ride.cs",
+              "RelativeToolTip": "Carpooling.WebApi\\Moduls\\Ride.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA2wA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T10:25:57.204Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RideService.cs",
+              "DocumentMoniker": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Services\\RideService.cs",
+              "RelativeDocumentMoniker": "Carpooling.WebApi\\Services\\RideService.cs",
+              "ToolTip": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Services\\RideService.cs",
+              "RelativeToolTip": "Carpooling.WebApi\\Services\\RideService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T16:15:52.088Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IRideService.cs",
+              "DocumentMoniker": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Interfaces\\IRideService.cs",
+              "RelativeDocumentMoniker": "Carpooling.WebApi\\Interfaces\\IRideService.cs",
+              "ToolTip": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Interfaces\\IRideService.cs",
+              "RelativeToolTip": "Carpooling.WebApi\\Interfaces\\IRideService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T10:10:08.62Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Carpooling.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Program.cs",
+              "RelativeToolTip": "Carpooling.WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T20:05:28.388Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "Carpooling.WebApi\\Controllers\\BookingsController.cs",
+              "ToolTip": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "Carpooling.WebApi\\Controllers\\BookingsController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T16:41:29.051Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Interfaces\\IBookingService.cs",
+              "RelativeDocumentMoniker": "Carpooling.WebApi\\Interfaces\\IBookingService.cs",
+              "ToolTip": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Interfaces\\IBookingService.cs",
+              "RelativeToolTip": "Carpooling.WebApi\\Interfaces\\IBookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T10:10:07.465Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Moduls\\Booking.cs",
+              "RelativeDocumentMoniker": "Carpooling.WebApi\\Moduls\\Booking.cs",
+              "ToolTip": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Moduls\\Booking.cs",
+              "RelativeToolTip": "Carpooling.WebApi\\Moduls\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T17:03:20.648Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Services\\BookingService.cs",
+              "RelativeDocumentMoniker": "Carpooling.WebApi\\Services\\BookingService.cs",
+              "ToolTip": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Services\\BookingService.cs",
+              "RelativeToolTip": "Carpooling.WebApi\\Services\\BookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T17:03:43.718Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Services\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "Carpooling.WebApi\\Services\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Services\\PasswordHasher.cs",
+              "RelativeToolTip": "Carpooling.WebApi\\Services\\PasswordHasher.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T16:12:15.79Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Carpooling.WebApi\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Carpooling.WebApi\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T16:08:09.609Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Services\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "Carpooling.WebApi\\Services\\JwtTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Services\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "Carpooling.WebApi\\Services\\JwtTokenGenerator.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAswGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T16:14:14.232Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Carpooling.WebApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Carpooling.WebApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAswGoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T16:27:10.053Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RoleFlags.cs",
+              "DocumentMoniker": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Enum\\RoleFlags.cs",
+              "RelativeDocumentMoniker": "Carpooling.WebApi\\Enum\\RoleFlags.cs",
+              "ToolTip": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Enum\\RoleFlags.cs",
+              "RelativeToolTip": "Carpooling.WebApi\\Enum\\RoleFlags.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T16:54:37.556Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RolesDemoController.cs",
+              "DocumentMoniker": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Controllers\\RolesDemoController.cs",
+              "RelativeDocumentMoniker": "Carpooling.WebApi\\Controllers\\RolesDemoController.cs",
+              "ToolTip": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Controllers\\RolesDemoController.cs",
+              "RelativeToolTip": "Carpooling.WebApi\\Controllers\\RolesDemoController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T17:30:53.582Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Moduls\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "Carpooling.WebApi\\Moduls\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Moduls\\LoginResponse.cs",
+              "RelativeToolTip": "Carpooling.WebApi\\Moduls\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T16:44:05.839Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "Carpooling.WebApi\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Controllers\\TestController.cs",
+              "RelativeToolTip": "Carpooling.WebApi\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T16:33:49.665Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VehicleValidator.cs",
+              "DocumentMoniker": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Validators\\VehicleValidator.cs",
+              "RelativeDocumentMoniker": "Carpooling.WebApi\\Validators\\VehicleValidator.cs",
+              "ToolTip": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Validators\\VehicleValidator.cs",
+              "RelativeToolTip": "Carpooling.WebApi\\Validators\\VehicleValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T18:03:11.043Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MongoRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Repositories\\MongoRepositories.cs",
+              "RelativeDocumentMoniker": "Carpooling.WebApi\\Repositories\\MongoRepositories.cs",
+              "ToolTip": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Repositories\\MongoRepositories.cs",
+              "RelativeToolTip": "Carpooling.WebApi\\Repositories\\MongoRepositories.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T20:45:35.607Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MongoDBClient.cs",
+              "DocumentMoniker": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Controllers\\MongoDBClient.cs",
+              "RelativeDocumentMoniker": "Carpooling.WebApi\\Controllers\\MongoDBClient.cs",
+              "ToolTip": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Controllers\\MongoDBClient.cs",
+              "RelativeToolTip": "Carpooling.WebApi\\Controllers\\MongoDBClient.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T08:13:07.522Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Repositories\\IRepositories.cs",
+              "RelativeDocumentMoniker": "Carpooling.WebApi\\Repositories\\IRepositories.cs",
+              "ToolTip": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Repositories\\IRepositories.cs",
+              "RelativeToolTip": "Carpooling.WebApi\\Repositories\\IRepositories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T20:44:03.149Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RideValidator.cs",
+              "DocumentMoniker": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Validators\\RideValidator.cs",
+              "RelativeDocumentMoniker": "Carpooling.WebApi\\Validators\\RideValidator.cs",
+              "ToolTip": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Validators\\RideValidator.cs",
+              "RelativeToolTip": "Carpooling.WebApi\\Validators\\RideValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T14:55:54.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingValidator.cs",
+              "DocumentMoniker": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Validators\\BookingValidator.cs",
+              "RelativeDocumentMoniker": "Carpooling.WebApi\\Validators\\BookingValidator.cs",
+              "ToolTip": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Validators\\BookingValidator.cs",
+              "RelativeToolTip": "Carpooling.WebApi\\Validators\\BookingValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T14:55:51.246Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 913,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

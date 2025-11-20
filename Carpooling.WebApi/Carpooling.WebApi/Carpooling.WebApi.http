@@ -1,0 +1,6 @@
+@Carpooling.WebApi_HostAddress = http://localhost:5097
+
+GET {{Carpooling.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
