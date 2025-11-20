@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Carpooling.WebApi.csproj": {}
+    "C:\\Users\\bonda\\Desktop\\LW_9_Bondar\\Carpooling.WebApi\\Carpooling.WebApi\\Carpooling.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Carpooling.WebApi.csproj": {
+    "C:\\Users\\bonda\\Desktop\\LW_9_Bondar\\Carpooling.WebApi\\Carpooling.WebApi\\Carpooling.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Carpooling.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\bonda\\Desktop\\LW_9_Bondar\\Carpooling.WebApi\\Carpooling.WebApi\\Carpooling.WebApi.csproj",
         "projectName": "Carpooling.WebApi",
-        "projectPath": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\Carpooling.WebApi.csproj",
+        "projectPath": "C:\\Users\\bonda\\Desktop\\LW_9_Bondar\\Carpooling.WebApi\\Carpooling.WebApi\\Carpooling.WebApi.csproj",
         "packagesPath": "C:\\Users\\bonda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bonda\\Desktop\\mia_4\\MIA_LW_4-6\\Carpooling.WebApi\\Carpooling.WebApi\\obj\\",
+        "outputPath": "C:\\Users\\bonda\\Desktop\\LW_9_Bondar\\Carpooling.WebApi\\Carpooling.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
