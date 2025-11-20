@@ -6,9 +6,11 @@ namespace Carpooling.WebApi.Repositories
     {
         private readonly IMongoCollection<T> _collection;
 
-        public MongoRepository( string collectionName)
+        public MongoRepository(string connectionString, string collectionName, string databaseName = "CarpoolingDb")
         {
-            _collection = MongoDBClient.Instance.GetCollection<T>(collectionName);
+            var client = new MongoClient(connectionString);
+            var database = client.GetDatabase(databaseName);
+            _collection = database.GetCollection<T>(collectionName);
         }
 
         public async Task<IReadOnlyCollection<T>> GetAllAsync()

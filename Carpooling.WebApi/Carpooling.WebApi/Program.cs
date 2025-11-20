@@ -15,10 +15,14 @@ using MongoDB.Driver;
 var builder = WebApplication.CreateBuilder(args);
 //4 task
 // MongoDB configuration
-builder.Services.AddScoped<IRepository<User>>(sp => new MongoRepository<User>("User"));
-builder.Services.AddScoped<IRepository<Vehicle>>(sp => new MongoRepository<Vehicle>("Vehicle"));
-builder.Services.AddScoped<IRepository<Ride>>(sp => new MongoRepository<Ride>("Ride"));
-builder.Services.AddScoped<IRepository<Booking>>(sp => new MongoRepository<Booking>("Booking"));
+var mongoUri = Environment.GetEnvironmentVariable("MONGO_URI")
+               ?? "mongodb://localhost:27017"; 
+
+builder.Services.AddScoped<IRepository<User>>(sp => new MongoRepository<User>(mongoUri, "User"));
+builder.Services.AddScoped<IRepository<Vehicle>>(sp => new MongoRepository<Vehicle>(mongoUri, "Vehicle"));
+builder.Services.AddScoped<IRepository<Ride>>(sp => new MongoRepository<Ride>(mongoUri, "Ride"));
+builder.Services.AddScoped<IRepository<Booking>>(sp => new MongoRepository<Booking>(mongoUri, "Booking"));
+
 
 var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
 
@@ -118,7 +122,7 @@ app.UseSwaggerUI(c =>
 });
 
 app.MapControllers();
-
+app.MapGet("/", ()=>"working \n gooooood");
 
 app.UseAuthentication();
 app.UseAuthorization();
