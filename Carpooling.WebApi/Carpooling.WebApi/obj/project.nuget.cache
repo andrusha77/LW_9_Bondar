@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q81zumnhjas=",
+  "dgSpecHash": "794dUn2AiSw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\bonda\\Desktop\\LW_9_Bondar\\Carpooling.WebApi\\Carpooling.WebApi\\Carpooling.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\bonda\\Desktop\\PAPKAAAAAA\\LW_9_Bondar\\Carpooling.WebApi\\Carpooling.WebApi\\Carpooling.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bonda\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\bonda\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
