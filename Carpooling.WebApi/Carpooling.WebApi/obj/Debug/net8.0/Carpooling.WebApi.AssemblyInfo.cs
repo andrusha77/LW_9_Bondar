@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Carpooling.WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9b2654e915b0d1e67448586b90c66c24eec5cd1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+296ac1a3782d2af8398fdf3fc01f09f522405bbe")]
 [assembly: System.Reflection.AssemblyProductAttribute("Carpooling.WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Carpooling.WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

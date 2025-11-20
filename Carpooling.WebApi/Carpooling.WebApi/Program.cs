@@ -17,6 +17,11 @@ builder.Services.AddScoped<IRepository<Vehicle>>(sp => new MongoRepository<Vehic
 builder.Services.AddScoped<IRepository<Ride>>(sp => new MongoRepository<Ride>("Ride"));
 builder.Services.AddScoped<IRepository<Booking>>(sp => new MongoRepository<Booking>("Booking"));
 
+//6 task
+builder.Services.AddTransient<IUserRepository, UserRepository>();
+builder.Services.AddTransient<IUserService, UserService>();
+
+
 // ------------------ SERVICES ------------------
 builder.Services.AddScoped<IUserService, UserService>();
 builder.Services.AddScoped<IVehicleService, VehicleService>();
