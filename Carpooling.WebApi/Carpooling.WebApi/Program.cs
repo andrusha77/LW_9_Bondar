@@ -1,5 +1,4 @@
 using System.Text;
-using Carpooling.WebApi.Controllers;
 using Carpooling.WebApi.Interfaces;
 using Carpooling.WebApi.Models;
 using Carpooling.WebApi.Repositories;
@@ -8,7 +7,6 @@ using Carpooling.WebApi.Validators;
 using FluentValidation;
 using FluentValidation.AspNetCore;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.OpenApi.Models;
 using Microsoft.IdentityModel.Tokens;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -30,11 +28,7 @@ builder.Services.Configure<JwtSettings>(builder.Configuration.GetSection("JwtSet
 builder.Services.AddSingleton<JwtTokenGenerator>();
 
 // ------------------ PORT FIX FOR RAILWAY ------------------
-var port =
-    Environment.GetEnvironmentVariable("PORT") ??
-    Environment.GetEnvironmentVariable("RAILWAY_PORT") ??
-    Environment.GetEnvironmentVariable("PORT0") ??
-    "3000";
+var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
 
 builder.WebHost.ConfigureKestrel(options =>
 {
@@ -64,7 +58,7 @@ builder.Services.AddAuthentication(o =>
     };
 });
 
-// ------------------ SWAGGER ------------------
+// ------------------ CONTROLLERS + SWAGGER ------------------
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
@@ -75,13 +69,21 @@ builder.Services.AddValidatorsFromAssemblyContaining<VehicleValidator>();
 
 var app = builder.Build();
 
+// ------------------ SWAGGER UI ------------------
 app.UseSwagger();
-app.UseSwaggerUI();
+app.UseSwaggerUI(c =>
+{
+    c.SwaggerEndpoint("/swagger/v1/swagger.json", "Carpooling.WebApi v1");
+    c.RoutePrefix = "swagger";
+});
 
-// ------------------ ROUTING ------------------
+// ------------------ MIDDLEWARE ------------------
+// На Railway не виконуємо UseHttpsRedirection, бо proxy вже дає HTTPS
+// app.UseHttpsRedirection();
+
 app.UseAuthentication();
 app.UseAuthorization();
+
 app.MapControllers();
 
-// ------------------ RUN ------------------
 app.Run();

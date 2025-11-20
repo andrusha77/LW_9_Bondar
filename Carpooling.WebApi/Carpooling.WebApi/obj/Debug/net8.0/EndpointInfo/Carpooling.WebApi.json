@@ -1,8 +1,8 @@
 {
   "openapi": "3.0.4",
   "info": {
-    "title": "My API",
-    "version": "v1"
+    "title": "Carpooling.WebApi",
+    "version": "1.0"
   },
   "paths": {
     "/api/Auth/register": {
@@ -1133,19 +1133,6 @@
         },
         "additionalProperties": false
       }
-    },
-    "securitySchemes": {
-      "Bearer": {
-        "type": "http",
-        "description": "Введіть токен у форматі: Bearer {токен}",
-        "scheme": "bearer",
-        "bearerFormat": "JWT"
-      }
     }
-  },
-  "security": [
-    {
-      "Bearer": [ ]
-    }
-  ]
+  }
 }
