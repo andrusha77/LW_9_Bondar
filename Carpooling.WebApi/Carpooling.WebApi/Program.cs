@@ -30,7 +30,11 @@ builder.Services.Configure<JwtSettings>(builder.Configuration.GetSection("JwtSet
 builder.Services.AddSingleton<JwtTokenGenerator>();
 
 // ------------------ PORT FIX FOR RAILWAY ------------------
-var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
+var port =
+    Environment.GetEnvironmentVariable("PORT") ??
+    Environment.GetEnvironmentVariable("RAILWAY_PORT") ??
+    Environment.GetEnvironmentVariable("PORT0") ??
+    "3000";
 
 builder.WebHost.ConfigureKestrel(options =>
 {
